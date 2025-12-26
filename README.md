@@ -1,6 +1,8 @@
 <div align="center">
   <h1 align="center">Hi, I'm Aayush Saw! 👋</h1>
   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  
   <h3>🚀 Full Stack Developer | 🧱 Node.js & React Enthusiast | ☁️ Cloud & DevOps Learner</h3>
   
   <p><i>Building scalable systems and exploring the depths of software engineering.</i></p>
@@ -67,8 +69,13 @@
 
 | Certification | Organization | Date |
 | :--- | :--- | :--- |
-| **Full Stack Development** | _(Add Organization)_ | *2024* |
-| **Java Data Structures** | _(Add Organization)_ | *2023* |
+| **AWS Academy Cloud Developing - Training Badge** | AWS Academy Graduate | *24th September 2025* |
+| **AWS Academy Machine Learning Foundations** | AWS Academy Graduate | *31st August 2025* |
+| **AWS Academy Data Engineering** | AWS Academy Graduate | *17th August 2025* |
+| **AWS Academy Cloud Foundations** | AWS Academy Graduate | *29th July 2025* |
+| **Generative AI Masterminds** | Outskill | *15th July 2025* |
+| **Introduction to Cybersecurity** | Cisco Networking Academy | *22th October 2024* |
+| **Data Analytics Essentials** | Cisco Networking Academy | *20th October 2024* |
 
 ---
 
