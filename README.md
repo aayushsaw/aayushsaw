@@ -1,8 +1,9 @@
 <div align="center">
+  <h1 align="center">Hi, I'm Pushkar Pisolkar! 👋</h1>
   
-  <h1 align="center">Hi there, I'm Aayush 👋</h1>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <h3>🌍 Jack of All Trades, Master of Fun | 👾 Enthusiast of literally everything.</h3>
+  
+  <p><i>If it's a skill, I've probably tried it—and broken it at least once.</i></p>
 
   <p align="center">
     <a href="https://github.com/aayushsaw">
@@ -12,76 +13,47 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=aayushsaw&color=blue" alt="Profile Views" />
+
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Do
 
-- 🔭 I’m currently working on **Modern Node.js Pipelines & Web Systems**
-- 🌱 I’m currently learning **Data Structures & Algorithms (Java)**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-- 💬 Ask me about **Java, Node.js, and Web Development**
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/aayush-saw/)
-- ⚡ Fun fact: **I love building collaborative tools!**
+- **🎨 3D Modeling**: Created a Pokémon model. Ash and Goku are quaking (still not sure why my cube keeps disappearing).
+- **� Animation**: Bringing lessons to life one animation at a time. Disney hasn't called yet, but I'm ready when they do.
+- **� App Development**: Built the "**IPlay**" app for IP awareness (who knew IP could be fun?), and played around with Flutter for other apps.
+- **🌐 Web Development**: Built a website once. Don't ask about the design choices; they were "unique."
+- **🎨 UI/UX Design**: I design apps because someone has to make them look good while they break! Tools of choice: Figma, coffee, and lots of tweaking.
+- **🛡️ Cybersecurity**: Currently learning to hack legally and protect systems from evil. Pentesting, encryption, network security, you name it, I'm on it.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  
-  <br />
+**🎯 Programming Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+**🌐 Web Development**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-  <br />
+**📱 Mobile Development**  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+**🛡️ Cybersecurity**  
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
 
-  <br />
+**☁️ Cloud & DevOps**  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  
-</div>
+**🛠️ Tools**  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ---
 
-### � Certifications
-
-| Certification | Organization | Date |
-| :--- | :--- | :--- |
-| **AWS Academy Cloud Developing - Training Badge** | AWS Academy Graduate | *24th September 2025* |
-| **AWS Academy Machine Learning Foundations** | AWS Academy Graduate | *31st August 2025* |
-| **AWS Academy Data Engineering** | AWS Academy Graduate | *17th August 2025* |
-| **AWS Academy Cloud Foundations** | AWS Academy Graduate | *29th July 2025* |
-| **Generative AI Masterminds** | Outskill | *15th July 2025* |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | *22th October 2024* |
-| **Data Analytics Essentials** | Cisco Networking Academy | *20th October 2024* |
-
----
-
-### �📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushsaw&theme=tokyonight" alt="GitHub Stats" />
@@ -94,12 +66,26 @@
 
 ---
 
+### 🎯 Currently Working On
+- 🎓 **Final Year Computer Engineering Student**
+- 🛡️ Building **Cryptonix** - Advanced vulnerability scanner
+- ☁️ Learning **AWS Cloud Services**
+
+---
+
+### 💡 Philosophy
+> "Always learning, always creating, always making tech bend to my will or burst into flames."  
+> 🌟 *If it's tech, I've tried it. If it's not, I'm probably downloading a tutorial right now.*
+
 <div align="center">
-  <h3>🤝 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/aayush-saw/">
+  <h3>🌱 Connect With Me</h3>
+  <br>
+  <a href="https://linkedin.com/in/aayush-saw/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aayushsaw13@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br><br>
+  Let's build, laugh, and cry over broken code (and very secure systems) together!
 </div>
