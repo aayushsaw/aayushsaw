@@ -65,7 +65,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### � Certifications
+
+| Certification | Organization | Date |
+| :--- | :--- | :--- |
+| **AWS Certified Solutions Architect** | Amazon Web Services | *2024* |
+| **Meta Frontend Developer** | Meta | *2023* |
+| **Google Data Analytics** | Google | *2023* |
+
+_(☝️ Replace these with your actual certificates)_
+
+---
+
+### �📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushsaw&theme=tokyonight" alt="GitHub Stats" />
