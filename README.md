@@ -69,11 +69,13 @@
 
 | Certification | Organization | Date |
 | :--- | :--- | :--- |
-| **AWS Certified Solutions Architect** | Amazon Web Services | *2024* |
-| **Meta Frontend Developer** | Meta | *2023* |
-| **Google Data Analytics** | Google | *2023* |
-
-_(☝️ Replace these with your actual certificates)_
+| **AWS Academy Cloud Developing - Training Badge** | AWS Academy Graduate | *24th September 2025* |
+| **AWS Academy Machine Learning Foundations** | AWS Academy Graduate | *31st August 2025* |
+| **AWS Academy Data Engineering** | AWS Academy Graduate | *17th August 2025* |
+| **AWS Academy Cloud Foundations** | AWS Academy Graduate | *29th July 2025* |
+| **Generative AI Masterminds** | Outskill | *15th July 2025* |
+| **Introduction to Cybersecurity** | Cisco Networking Academy | *22th October 2024* |
+| **Data Analytics Essentials** | Cisco Networking Academy | *20th October 2024* |
 
 ---
 
